@@ -1,6 +1,6 @@
 {
   "name": "mywebsite",
-  "homepage": " https://mechanware.github.io/SGSolutions/",
+  "homepage": "https://mechanware.github.io/SGSolutions/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
